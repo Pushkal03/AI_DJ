@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-size: cover;
+}
+#main{
+    color:white;
+    background-color: #ffc400;
+    width:100%;
+    margin-top: 0;
+    position:sticky;
+}
+
+#note{
+    color: black !important;
+    font-size:17px !important;
+    font-weight:bold;
+}
+canvas{
+    border:5px solid white;
+}
+
+#name{
+    margin-bottom: 0;
+    position:sticky;
+}
